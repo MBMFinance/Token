@@ -1,4 +1,4 @@
-pragma solidity ^0.6.2;
+pragma solidity ^0.8.3;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Context.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
